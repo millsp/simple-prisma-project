@@ -15,6 +15,8 @@
     "typescript": "^4.2.4"
   },
   "dependencies": {
-    "@prisma/client": "latest"
+    "@prisma/client": "latest",
+    "minimatch": "^9.0.1",
+    "watcher": "^2.2.2"
   }
 }
